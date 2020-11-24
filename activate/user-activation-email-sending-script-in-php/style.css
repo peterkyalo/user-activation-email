@@ -1,0 +1,54 @@
+body {
+    width: 610px;
+    font-family: Arial;
+    font-size: 0.95em;
+}
+
+.message {
+    padding: 10px;
+    color: #212121;
+    margin-bottom: 10px;
+    border-radius: 3px;
+}
+
+.success {
+    background: #d9efd1;
+    border: #d3e4cd 1px solid;
+}
+
+.error {
+    background: #efd1d1;
+    border: #e0c8c9 1px solid;
+}
+
+.demo-table {
+    width: 100%;
+    border-spacing: initial;
+    word-break: break-word;
+    table-layout: auto;
+    line-height: 1.8em;
+    color: #333;
+    border: #E0E0E0 1px solid;
+    border-radius: 3px;
+    padding: 5px 10px;
+}
+
+.demo-table td {
+    padding: 20px 15px 10px 15px;
+}
+
+.demoInputBox {
+    padding: 7px;
+    border: #E0E0E0 1px solid;
+    border-radius: 4px;
+    width: 80%;
+}
+
+.btnRegister {
+    padding: 10px 40px;
+    background-color: #09F;
+    border: 0;
+    color: #FFF;
+    cursor: pointer;
+    margin-top: 20px;
+}
